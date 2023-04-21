@@ -1,0 +1,1 @@
+Projeto de busca o clima de uma cidade, usada API do OpenWeatherMap.
